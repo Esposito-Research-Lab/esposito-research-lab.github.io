@@ -2,6 +2,7 @@ This is the github repository that manages the website for the Esposito Research
 [esposito-research-lab.github.io](esposito-research-lab.github.io)
 
 The Esposito Research Lab is a computational chemistry group at Chapman University. 
+
 Current Members are: 
 * Prof. Vincent Esposito
 * Dr. Rachel Huchmala
