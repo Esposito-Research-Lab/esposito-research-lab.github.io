@@ -5,7 +5,7 @@ sidebar_visible: true
 
 # Welcome to the Esposito Research Lab!
 
-![EspolabBanner](EspositoLabLogos/EspositoLab_fullColor.jpg){width:90%}
+![EspolabBanner](EspositoLabLogos/EspositoLab_fullColor.jpg){width:50%}
 ---
 
 ### Meet the Group
