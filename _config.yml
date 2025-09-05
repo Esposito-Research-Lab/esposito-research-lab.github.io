@@ -1,0 +1,110 @@
+# Setup config for group website
+title: The Esposito Research Lab
+description: References, resources, and tutorials for the computational study of astronomically relevant chemical compounds
+url: "https://esposito-research-lab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+icon: computer_icon.jpeg
+github_username:  Esposito-Research-Lab
+footer_text: >-
+  Brought to you by the Esposito Research Lab at the Chapman University
+#sitemap_depth: 2
+sitemap_roots:
+  - name: Esposito Lab 101
+    url: /Esposito%20Lab%20101/
+    listing:
+      - name: Getting Started
+        url: /Esposito%20Lab%20101/GettingStarted/
+      - name: NumPy
+        url: /Esposito%20Lab%20101/NumPy/
+      - name: Data & IO
+        url: /Esposito%20Lab%20101/DataIO/
+      - name: Plotting
+        url: /Esposito%20Lab%20101/Plotting/
+      - name: Git & Github
+        url: /Esposito%20Lab%20101/Git&Github/
+      - name: Programming Tips
+        url: /Esposito%20Lab%20101/ProgrammingTips/
+      - name: Supercomputing at Chapman
+        url: /Esposito%20Lab%20101/Supercomputing101/
+      - name: Exercises
+        url: /Esposito%20Lab%20101/Exercises/
+  - name: References
+    url: /References/
+    listing:
+      - name: Basis Set Methods
+        url: /References/Basis%20Set%20Methods/
+      - name: Spectrum Generation
+        url: /References/Spectrum%20Generation/
+links:
+  - url: https://github.com/Esposito-Research-Lab
+    title: GitHub
+
+
+# Build settings
+markdown: kramdown
+remote_theme: Esposito-Research-Lab/finx
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-optional-front-matter
+  - jekyll-seo-tag
+relative_links:
+  enabled: true
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"
+      image: "https://esposito-research-lab.github.io/computer_icon.jpeg"
+  - scope:
+      path: "index.html|about.html|404.html|search.html"
+    values:
+      layout: "page"
+  - scope:
+      path: "Esposito Lab 101"
+      type: "pages"
+    values:
+      optional_scripts: true
+      custom_styles: "refs"
+      layout: "refs"
+      breadcrumbs:
+        num_links: 1
+        min_depth: 0
+        check_urls: false
+  - scope:
+      path: "References"
+      type: "pages"
+    values:
+      optional_scripts: true
+      custom_styles: "refs"
+      layout: "refs"
+      breadcrumbs:
+        num_links: 1
+        min_depth: 0
+        check_urls: false
+  - scope:
+      path: "Documentation"
+      type: "pages"
+    values:
+      optional_scripts: true
+      annotations_type: "refs"
+      custom_styles: "refs"
+      layout: "docs"
+      sidebar_visible: true
+      breadcrumbs:
+        num_links: 1
+        min_depth: 0
+        check_urls: false
+        url_ext: ".html"
+
+# Exclude from processing
+exclude:
+  - Documentation/examples
+  - Documentation/templates
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
