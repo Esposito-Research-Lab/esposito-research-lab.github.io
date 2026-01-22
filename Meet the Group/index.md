@@ -8,7 +8,7 @@ sidebar_visible: true
 # Meet the Esposito Research Lab!
 
 ## Professor Vincent Esposito
-<img style="padding-right: 30px; float:left;" src="images/ocean_headshot_cropped.jpg" width="" height="400">
+<img style="padding-right: 30px; float:left;" src="images/ocean_headshot_cropped.jpg" width="" height="300">
 
 Dr. Esposito obtained his Bachelor's degree in chemistry from the University of South Carolina. 
 There, he worked with Dr. Susan Richardson studying disinfection by-products in drinking water. 
@@ -28,7 +28,7 @@ carbon sheets, often with hydrogens around the outside, but sometimes with other
 
 ---
 ## Dr. Rachel Huchmala
-<img style="padding-left: 30px; float: right;" src="images/huchmala_chapman-0.jpg" width="" height="400">
+<img style="padding-left: 30px; float: right;" src="images/huchmala_chapman-0.jpg" width="" height="300">
 
 Dr. Huchmala works as a Postdoctoral Research Fellow in the Lab. She obtained her Bachelor's degree in chemistry with 
 minors in physics and astronomy from Northern Arizona University. There, she discovered her love for astronomy while 
