@@ -22,12 +22,6 @@ Here are links to the MolSSI tutorials:
 * [Git](https://education.molssi.org/python-package-best-practices/02-git/index.html) 
 * [Github](https://education.molssi.org/python-package-best-practices/03-github/index.html)
 
-### Not convinced you need to "git on the git train"? 
-A note from a former group member: 
-
-The git train is a fantastic place to be, even if you are writing little scripts to do random stuff. Git is very easy to use, especially in the confines of PyCharm.
-This is valuable because now you have 1. A backup to all your code, 2. A way to see what you changed to make your code work again if you mess it up. 
-{: .alert-primary .rounded-pill .p-3}
 
 ### Need help getting started with Git?
 _We will have a quick tutorial... soon_
