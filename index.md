@@ -17,7 +17,7 @@ with the help of powerful telescopes, sophisticated laboratory experiments, and 
 (termed the "triangle of astrochemistry"). The Esposito Lab at Chapman forms one small piece of this triangle, and 
 through many domestic and international collaborations, we hope to arrive at a deeper understanding of our Universe.
 
-### [Meet the Group](Meet%20the20%Group)
+### [Meet the Group](Meet%20the%20Group/index.md)
 _Group Photo coming soon!_
 
 ### Group News

@@ -48,3 +48,6 @@ Rachel can't wait to put her passions for chemistry and astronomy together and s
 
 ---
 ## Chapman Undergraduate Students
+### Ben Smith
+### Juliana Jordan
+### Stella Erlandson
