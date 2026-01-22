@@ -8,6 +8,8 @@ footer_text: >-
   Brought to you by the Esposito Research Lab at the Chapman University
 #sitemap_depth: 2
 sitemap_roots:
+  - name: Meet the Group
+    url: /Meet%20the%20Group/
   - name: Esposito Lab 101
     url: /Esposito%20Lab%20101/
     listing:
