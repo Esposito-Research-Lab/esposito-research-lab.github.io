@@ -9,7 +9,7 @@ sidebar_visible: true
 
 ## Professor Vincent Esposito
 <img style="padding-right: 30px; float:left;" src="images/ocean_headshot_cropped.jpg" width="" height="300">
-
+[CV](https://app.box.com/s/hxjwz9daoea553q8oyxux5es4bilaz33)
 Dr. Esposito obtained his Bachelor's degree in chemistry from the University of South Carolina. 
 There, he worked with Dr. Susan Richardson studying disinfection by-products in drinking water. 
 During his undergraduate studies, Dr. Esposito spent a summer at the NASA Goddard Space Flight Center where he first 
