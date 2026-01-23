@@ -25,6 +25,7 @@ Before coming to Chapman, Dr. Esposito was a NASA Postdoctoral Fellow at the NAS
 CA where he studied the absorption and emission spectra of polycyclic aromatic hydrocarbons (PAHs). These are big 
 carbon sheets, often with hydrogens around the outside, but sometimes with other substituents like deuterium and cyano.<br>
 
+See Dr. Esposito's [CV](https://app.box.com/s/hxjwz9daoea553q8oyxux5es4bilaz33)<br><br>.
 
 ---
 ## Dr. Rachel Huchmala
