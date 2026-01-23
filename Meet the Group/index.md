@@ -7,7 +7,7 @@ sidebar_visible: true
 
 # Meet the Esposito Research Lab!
 
-## Professor Vincent Esposito [CV](https://app.box.com/s/hxjwz9daoea553q8oyxux5es4bilaz33)
+## Professor Vincent Esposito [cv](https://app.box.com/s/hxjwz9daoea553q8oyxux5es4bilaz33)
 <img style="padding-right: 30px; float:left;" src="images/ocean_headshot_cropped.jpg" width="" height="300">
 
 Dr. Esposito obtained his Bachelor's degree in chemistry from the University of South Carolina. 
