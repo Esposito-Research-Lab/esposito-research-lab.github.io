@@ -7,7 +7,7 @@ sidebar_visible: true
 
 # Meet the Esposito Research Lab!
 
-## Professor Vincent Esposito [cv](https://app.box.com/s/hxjwz9daoea553q8oyxux5es4bilaz33)
+## Professor Vincent Esposito
 <img style="padding-right: 30px; float:left;" src="images/ocean_headshot_cropped.jpg" width="" height="300">
 
 Dr. Esposito obtained his Bachelor's degree in chemistry from the University of South Carolina. 
@@ -25,7 +25,7 @@ Before coming to Chapman, Dr. Esposito was a NASA Postdoctoral Fellow at the NAS
 CA where he studied the absorption and emission spectra of polycyclic aromatic hydrocarbons (PAHs). These are big 
 carbon sheets, often with hydrogens around the outside, but sometimes with other substituents like deuterium and cyano.<br>
 
-See Dr. Esposito's [CV](https://app.box.com/s/hxjwz9daoea553q8oyxux5es4bilaz33)<br><br>.
+See Dr. Esposito's [CV](https://app.box.com/s/hxjwz9daoea553q8oyxux5es4bilaz33).<br><br>
 
 ---
 ## Dr. Rachel Huchmala
