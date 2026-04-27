@@ -49,6 +49,17 @@ Rachel can't wait to put her passions for chemistry and astronomy together and s
 
 ---
 ## Chapman Undergraduate Students
-### Ben Smith
+
 ### Juliana Jordan
 ### Stella Erlandson
+### Audrey Iravanchy
+### Cadette Beniyah
+
+---
+### Ben Smith
+<img style="padding-left: 30px; float: right;" src="images/Headshot_BenSmith.pdf" width="" height="300">
+
+Ben Smith worked in the Esposito Lab from August of 2025 unitl his graduation from Chapman in May of 2026. Ben is currently pursuing his PhD in Physical Chemistry at USC. 
+
+---
+
