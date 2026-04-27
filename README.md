@@ -6,6 +6,11 @@ The Esposito Research Lab is a computational chemistry group at Chapman Universi
 Current Members are: 
 * Prof. Vincent Esposito
 * Dr. Rachel Huchmala
+* Ben Smith
+* Juliana Jordan
+* Stella Erlandson
+* Audrey Iravanchy
+* Cadette Beniyah
 
 The group's main research interests are: 
 * Computational Vibrational Spectroscopy
