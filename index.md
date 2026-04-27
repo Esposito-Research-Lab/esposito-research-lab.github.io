@@ -17,12 +17,14 @@ with the help of powerful telescopes, sophisticated laboratory experiments, and 
 (termed the "triangle of astrochemistry"). The Esposito Lab at Chapman forms one small piece of this triangle, and 
 through many domestic and international collaborations, we hope to arrive at a deeper understanding of our Universe.
 
-### [Meet the Group](Meet%20the%20Group/index.md)
-_Group Photo coming soon!_
+### [Meet the Group](https://esposito-research-lab.github.io/Meet%20the%20Group/)
+
+<img src="EspositoLab_Spring2026.png" width="450">
+Esposito Lab Group Members (left to right): Juliana Jordan, Stella Erlandson, Dr. Rachel Huchmala, Prof. Esposito, Ben Smith, Audrey Iravanchy, Cadette Beniyah
 
 ### Group News
 
-### [Esposito Lab 101](Esposito%20Lab%20101)
+### [Esposito Lab 101](https://esposito-research-lab.github.io/Esposito%20Lab%20101)
 
 Esposito Lab 101 is a self guided intro to the methods used in the lab. It was written with the intention of getting people ready and thinking about the kinds of problems we approach.
 
