@@ -56,6 +56,8 @@ Rachel can't wait to put her passions for chemistry and astronomy together and s
 ### Cadette Beniyah
 
 ---
+## Chapman Alumni
+
 ### Ben Smith
 <img style="padding-right: 30px; float: right;" src="images/Headshot_BenSmith.png" width="" height="300">
 
