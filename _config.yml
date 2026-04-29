@@ -10,6 +10,8 @@ footer_text: >-
 sitemap_roots:
   - name: Meet the Group
     url: Meet%20the%20Group/
+  - name: Publications
+    url: Publications
   - name: Esposito Lab 101
     url: Esposito%20Lab%20101/
     listing:
