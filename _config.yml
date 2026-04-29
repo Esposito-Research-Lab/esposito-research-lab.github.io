@@ -5,7 +5,7 @@ url: "https://esposito-research-lab.github.io/" # the base hostname & protocol f
 icon: computer_icon.jpeg
 github_username:  Esposito-Research-Lab
 footer_text: >-
-  Brought to you by the Esposito Research Lab at the Chapman University
+  Brought to you by the Esposito Research Lab at Chapman University
 #sitemap_depth: 2
 sitemap_roots:
   - name: Meet the Group
