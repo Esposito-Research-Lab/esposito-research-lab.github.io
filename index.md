@@ -23,6 +23,7 @@ through many domestic and international collaborations, we hope to arrive at a d
 Esposito Lab Group Members (left to right): Juliana Jordan, Stella Erlandson, Dr. Rachel Huchmala, Prof. Esposito, Ben Smith, Audrey Iravanchy, Cadette Beniyah
 
 ### Group News
+4/27/2026 - Juliana was award a Chapman Summer Undergraduate Research Fellowship (SURF) to do research over the summer!
 
 ### [Esposito Lab 101](https://esposito-research-lab.github.io/Esposito%20Lab%20101)
 
