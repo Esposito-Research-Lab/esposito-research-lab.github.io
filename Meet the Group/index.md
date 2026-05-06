@@ -51,6 +51,10 @@ Rachel can't wait to put her passions for chemistry and astronomy together and s
 ## Chapman Undergraduate Students
 
 ### Juliana Jordan
+<img style="padding-right: 30px; float: right;" src="images/Headshot_Juliana.jpeg" width="" height="150">
+
+Juliana Jordan is a 3rd year physics philosophy double major, and an aspiring Optical Engineer. She focuses on optical physics and spectrometry, but enjoys researching chemistry alongside these topics.
+
 ### Stella Erlandson
 ### Audrey Iravanchy
 ### Cadette Beniyah
@@ -59,9 +63,9 @@ Rachel can't wait to put her passions for chemistry and astronomy together and s
 ## Chapman Alumni
 
 ### Ben Smith
-<img style="padding-right: 30px; float: right;" src="images/Headshot_BenSmith.png" width="" height="300">
+<img style="padding-right: 30px; float: right;" src="images/Headshot_BenSmith.png" width="" height="150">
 
-Ben Smith worked in the Esposito Lab from August of 2025 unitl his graduation from Chapman in May of 2026. Ben is currently pursuing his PhD in Physical Chemistry at USC. 
+Ben Smith worked in the Esposito Lab from August of 2025 until his graduation from Chapman in May of 2026. Ben is currently pursuing his PhD in Physical Chemistry at USC. 
 
 ---
 
