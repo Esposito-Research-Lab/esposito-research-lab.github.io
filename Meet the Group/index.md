@@ -56,6 +56,10 @@ Rachel can't wait to put her passions for chemistry and astronomy together and s
 Juliana Jordan is a 3rd year physics philosophy double major, and an aspiring Optical Engineer. She focuses on optical physics and spectrometry, but enjoys researching chemistry alongside these topics.
 
 ### Stella Erlandson
+<img style="padding-left: 30px; float: right;" src="images/Headshot_Stella.jpg" width="" height="150">
+
+Stella Erlandson is a 3rd year Mathematics major from Seattle, WA.
+
 ### Audrey Iravanchy
 ### Cadette Beniyah
 
