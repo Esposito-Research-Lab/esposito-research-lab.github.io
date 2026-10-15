@@ -12,32 +12,32 @@ sitemap_roots:
     url: Meet%20the%20Group/
   - name: Publications
     url: Publications/
-  - name: Esposito Lab 101
-    url: Esposito%20Lab%20101/
-    listing:
-      - name: Getting Started
-        url: /Esposito%20Lab%20101/GettingStarted/
-      - name: NumPy
-        url: /Esposito%20Lab%20101/NumPy/
-      - name: Data & IO
-        url: /Esposito%20Lab%20101/DataIO/
-      - name: Plotting
-        url: /Esposito%20Lab%20101/Plotting/
-      - name: Git & Github
-        url: /Esposito%20Lab%20101/Git&Github/
-      - name: Programming Tips
-        url: /Esposito%20Lab%20101/ProgrammingTips/
-      - name: Supercomputing at Chapman
-        url: /Esposito%20Lab%20101/Supercomputing101/
-      - name: Exercises
-        url: /Esposito%20Lab%20101/Exercises/
-  - name: References
-    url: References/
-    listing:
-      - name: Basis Set Methods
-        url: /References/Basis%20Set%20Methods/
-      - name: Spectrum Generation
-        url: /References/Spectrum%20Generation/
+#  - name: Esposito Lab 101
+#    url: Esposito%20Lab%20101/
+#    listing:
+#      - name: Getting Started
+#        url: /Esposito%20Lab%20101/GettingStarted/
+#      - name: NumPy
+#        url: /Esposito%20Lab%20101/NumPy/
+#      - name: Data & IO
+#        url: /Esposito%20Lab%20101/DataIO/
+#      - name: Plotting
+#        url: /Esposito%20Lab%20101/Plotting/
+#      - name: Git & Github
+#        url: /Esposito%20Lab%20101/Git&Github/
+#      - name: Programming Tips
+#        url: /Esposito%20Lab%20101/ProgrammingTips/
+#      - name: Supercomputing at Chapman
+#        url: /Esposito%20Lab%20101/Supercomputing101/
+#      - name: Exercises
+#        url: /Esposito%20Lab%20101/Exercises/
+#  - name: References
+#    url: References/
+#    listing:
+#      - name: Basis Set Methods
+#        url: /References/Basis%20Set%20Methods/
+#      - name: Spectrum Generation
+#        url: /References/Spectrum%20Generation/
 links:
   - url: https://github.com/Esposito-Research-Lab
     title: GitHub

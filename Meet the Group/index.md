@@ -44,8 +44,9 @@ in quantum chemistry, but with the launch of the James Webb Space Telescope, she
 Before coming to Chapman, Dr. Huchmala was a Postdoctoral Research Fellow at Boise State University where she ran a citizen 
 science program and an observational campaign for undergraduate student researchers. These programs were focused on the 
 study of exoplanet transits and the hunt for ["Doomed Worlds"](https://www.boisestate.edu/physics-cidsrsn/2024/03/01/first-friday-finding-the-next-doomed-worlds-by-dr-elisabeth-adams/). 
-Rachel can't wait to put her passions for chemistry and astronomy together and see what happens!<br>
+Rachel can't wait to put her passions for chemistry and astronomy together and see what happens!
 
+Learn more about Dr. Huchmala's work on her [website](rmhuch.github.io). <br>
 
 ---
 ## Chapman Undergraduate Students
@@ -55,21 +56,23 @@ Rachel can't wait to put her passions for chemistry and astronomy together and s
 
 Juliana Jordan is a 3rd year physics philosophy double major, and an aspiring Optical Engineer. She focuses on optical physics and spectrometry, but enjoys researching chemistry alongside these topics.
 
-### Stella Erlandson
-<img style="padding-left: 30px; float: right;" src="images/Headshot_Stella.jpg" width="" height="150">
-
-Stella Erlandson is a 3rd year Mathematics major from Seattle, WA.
-
-### Audrey Iravanchy
 ### Cadette Beniyah
+### Megan Kim
+### Avery Leon
+
 
 ---
-## Chapman Alumni
+## Group Alumni
 
 ### Ben Smith
 <img style="padding-right: 30px; float: right;" src="images/Headshot_BenSmith.png" width="" height="150">
 
 Ben Smith worked in the Esposito Lab from August of 2025 until his graduation from Chapman in May of 2026. Ben is currently pursuing his PhD in Physical Chemistry at USC. 
+
+### Stella Erlandson
+<img style="padding-left: 30px; float: right;" src="images/Headshot_Stella.jpg" width="" height="150">
+
+Stella Erlandson is a 3rd year Mathematics major from Seattle, WA.
 
 ---
 
